@@ -1,7 +1,7 @@
 # Cypress Automation Framework (Advanced Techniques)
 
 A Cypress-based automation framework showcasing advanced testing techniques across:
-- Backend/API test automation
+- Backend/API test automation with Postman & Devtools, APIs GraphQL con PokeAPI, CRUD with NoSQL con MongoDB, SQL & MySQL
 - Dockerized execution
 - Node.js tasks & utilities
 - Cookies & Local Storage
@@ -15,6 +15,8 @@ A Cypress-based automation framework showcasing advanced testing techniques acro
 - Fixtures & test data management
 - Parallel testing
 - Video reporting & artifacts
+- Json Server
+- Headers 
 
 ## Tech Stack
 - **Cypress** (E2E + component-style patterns)
